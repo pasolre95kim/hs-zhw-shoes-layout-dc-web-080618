@@ -53,3 +53,7 @@
   display: inline-block;
   width: 31%;
 }
+
+#contact {
+  float: left;
+}
