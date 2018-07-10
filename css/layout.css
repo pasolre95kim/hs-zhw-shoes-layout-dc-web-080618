@@ -35,6 +35,7 @@
 #shoeArchive {
   width: 32%;
   display: inline-block;
+  float:right;
 }
 
 #ladyBug {
