@@ -41,3 +41,9 @@
   margin-right: 2%;
   margin-top: 2%;
 }
+
+#skate {
+  display: inline-block;
+  width: 32%;
+  margin-right: 2%
+}
