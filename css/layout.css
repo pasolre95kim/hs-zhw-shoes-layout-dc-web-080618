@@ -27,7 +27,7 @@
 #summerGrass {
   width: 66%;
   margin-right: 2%;
-  display: inline-block;
+  float: left;
 
 }
 
